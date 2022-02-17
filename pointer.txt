@@ -1,0 +1,41 @@
+1.Clear and Validation form after Field after submit.
+2.pdf store in upload folder not downloading after submiting.
+3.Design pdf format.
+4.Design view.php Field
+5.Design pdf and view file should be same.
+6.viewbill Re Design.
+
+
+
+Billing Invoice
+
+1st Task
+ 
+Step 1 : 
+1. Title with add invoice.
+2. list of data in database (datatable).
+3. the above list will have following field :
+	. id
+	. orderid
+	. name
+	. status (edit)
+	. settings (edit, detele, view, download)
+
+Step 2 : 
+1. if i click to add invoice button it will redirect to from with following fields
+	. name 
+	. contact no.
+	. email id 
+	. address
+	. biller name
+	. property name
+	. check in - out
+	. number of guest 
+	. days (number of days between check in - out) readonly
+	. price (days * prices)
+	. total price (readonly)
+	. calculate button
+	. Note
+	. submit button	
+
+*PDF Should store in Upload Folder*
